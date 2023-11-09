@@ -76,7 +76,19 @@ MockAPI é uma ferramenta simples que permite simular APIs facilmente, gerar dad
 
 
 ## ☕ TELAS ☕
-![app00](https://github.com/Nestor-Neto/app_target/assets/46816371/92ee5cdd-545e-4b31-a453-cf61ab55b6d1)
+![app001](https://github.com/Nestor-Neto/app_target/assets/46816371/c664cee8-aa03-4424-bdd5-b61bfef7d2a6)
+![app01](https://github.com/Nestor-Neto/app_target/assets/46816371/e33af923-0737-4fca-8dae-0bf135d7d8bc)
+![app02](https://github.com/Nestor-Neto/app_target/assets/46816371/2b392f34-a257-4bf7-a498-ceaa832ef6cc)
+![app03](https://github.com/Nestor-Neto/app_target/assets/46816371/cf4670cc-2d74-4ef3-9ca4-06be67b1dfc1)
+![app04](https://github.com/Nestor-Neto/app_target/assets/46816371/f5b7ed4c-091c-4369-b7c9-59d5ff2b0472)
+![app05](https://github.com/Nestor-Neto/app_target/assets/46816371/67e36498-70b8-4aa3-b03b-597f7afd2014)
+![app06](https://github.com/Nestor-Neto/app_target/assets/46816371/a03d8bc2-2640-4393-93e4-3058043e1432)
+![app07](https://github.com/Nestor-Neto/app_target/assets/46816371/36871f9e-8838-4709-af3d-5d045174466a)
+![app08](https://github.com/Nestor-Neto/app_target/assets/46816371/c1a150e6-a17d-4f11-a69b-05aea5c855e1)
+![app09](https://github.com/Nestor-Neto/app_target/assets/46816371/0ae5b02d-a0ca-413c-b601-f538a4c02d9b)
+![app10](https://github.com/Nestor-Neto/app_target/assets/46816371/491888c0-83de-4149-8e4f-68c60875cc8b)
+![MockApi](https://github.com/Nestor-Neto/app_target/assets/46816371/1db4dab8-bf1b-42a5-91f4-5d8a4e7936cd)
+![app00](https://github.com/Nestor-Neto/app_target/assets/46816371/254967da-ec1c-460f-aa2b-6801c4b87901)
 
 Para obter ajuda para começar a desenvolver o Flutter, consulte o
 [documentação online](https://docs.flutter.dev/), que oferece tutoriais,
