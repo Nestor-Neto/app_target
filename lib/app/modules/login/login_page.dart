@@ -40,6 +40,7 @@ class LoginPageState extends State<LoginPage> {
 
     return Scaffold(
       body: SingleChildScrollView(
+        keyboardDismissBehavior: ScrollViewKeyboardDismissBehavior.onDrag,
         child: Container(
           height: height,
           decoration: theme.backGroundSystemDesign,
