@@ -44,7 +44,7 @@ Como a tela deve se comportar
 
 
 ## 💻 Dependências
-[!NOTE]
+> [!NOTE]
 |Versão                                                                        |           
 |------------------------------------------------------------------------------|
 |Flutter 3.13.9 • channel stable • https://github.com/flutter/flutter.git      |
@@ -78,8 +78,8 @@ MockAPI é uma ferramenta simples que permite simular APIs facilmente, gerar dad
   
 
 
-## TELAS
-[!NOTE] :shipit:
+## TELAS 
+
 ![app1](https://github.com/Nestor-Neto/app_target/assets/46816371/dfff5027-d22f-4356-affb-0fe944c14fbd)
 ![app2](https://github.com/Nestor-Neto/app_target/assets/46816371/286c563c-117b-46e6-b7a1-9c09166634fd)
 ![app01](https://github.com/Nestor-Neto/app_target/assets/46816371/e33af923-0737-4fca-8dae-0bf135d7d8bc)
