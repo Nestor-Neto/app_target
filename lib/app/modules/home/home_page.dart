@@ -59,6 +59,7 @@ class _HomePageState extends State<HomePage> {
           width: width,
           height: height,
           child: SingleChildScrollView(
+            keyboardDismissBehavior: ScrollViewKeyboardDismissBehavior.onDrag,
             child: Column(
               children: [
                 SizedBox(
@@ -73,6 +74,8 @@ class _HomePageState extends State<HomePage> {
                   ),
                   child: Observer(builder: (_) {
                     return ListView.builder(
+                      keyboardDismissBehavior:
+                          ScrollViewKeyboardDismissBehavior.onDrag,
                       itemCount: store.listDto.length,
                       itemBuilder: (context, index) => ListItemWidget(
                         text: store.listDto[index],
