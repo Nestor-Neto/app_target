@@ -44,7 +44,7 @@ Como a tela deve se comportar
 
 
 ## 💻 Dependências
-
+[!NOTE]
 |Versão                                                                        |           
 |------------------------------------------------------------------------------|
 |Flutter 3.13.9 • channel stable • https://github.com/flutter/flutter.git      |
@@ -78,8 +78,10 @@ MockAPI é uma ferramenta simples que permite simular APIs facilmente, gerar dad
   
 
 
-## ☕ TELAS ☕
-
+## TELAS
+[!NOTE] :shipit:
+![app1](https://github.com/Nestor-Neto/app_target/assets/46816371/dfff5027-d22f-4356-affb-0fe944c14fbd)
+![app2](https://github.com/Nestor-Neto/app_target/assets/46816371/286c563c-117b-46e6-b7a1-9c09166634fd)
 ![app01](https://github.com/Nestor-Neto/app_target/assets/46816371/e33af923-0737-4fca-8dae-0bf135d7d8bc)
 ![app02](https://github.com/Nestor-Neto/app_target/assets/46816371/2b392f34-a257-4bf7-a498-ceaa832ef6cc)
 ![app03](https://github.com/Nestor-Neto/app_target/assets/46816371/cf4670cc-2d74-4ef3-9ca4-06be67b1dfc1)
@@ -90,9 +92,9 @@ MockAPI é uma ferramenta simples que permite simular APIs facilmente, gerar dad
 ![app08](https://github.com/Nestor-Neto/app_target/assets/46816371/c1a150e6-a17d-4f11-a69b-05aea5c855e1)
 ![app09](https://github.com/Nestor-Neto/app_target/assets/46816371/0ae5b02d-a0ca-413c-b601-f538a4c02d9b)
 ![app10](https://github.com/Nestor-Neto/app_target/assets/46816371/491888c0-83de-4149-8e4f-68c60875cc8b)
-![MockApi](https://github.com/Nestor-Neto/app_target/assets/46816371/1db4dab8-bf1b-42a5-91f4-5d8a4e7936cd)
 
 
+[!NOTE]
 Para obter ajuda para começar a desenvolver o Flutter, consulte o
 [documentação online](https://docs.flutter.dev/), que oferece tutoriais,
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
