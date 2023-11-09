@@ -44,7 +44,7 @@ Como a tela deve se comportar
 
 
 ## 💻 Dependências
-> [!NOTE]
+
 |Versão                                                                        |           
 |------------------------------------------------------------------------------|
 |Flutter 3.13.9 • channel stable • https://github.com/flutter/flutter.git      |
@@ -94,8 +94,9 @@ MockAPI é uma ferramenta simples que permite simular APIs facilmente, gerar dad
 ![app10](https://github.com/Nestor-Neto/app_target/assets/46816371/491888c0-83de-4149-8e4f-68c60875cc8b)
 
 
-[!NOTE]
-Para obter ajuda para começar a desenvolver o Flutter, consulte o
+> [!NOTE]
+
+- Para obter ajuda para começar a desenvolver o Flutter, consulte o
 [documentação online](https://docs.flutter.dev/), que oferece tutoriais,
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
