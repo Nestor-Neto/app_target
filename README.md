@@ -52,22 +52,22 @@ Como a tela deve se comportar
 |Dart 3.1.5 • DevTools 2.25.0                                                  |	
 
 |Dependências           | Dev Dependências       |   
-|-----------------------||-----------------------|
-|cupertino_icons: ^1.0.2||flutter_lints: ^2.0.0  |
-|flutter_modular: ^5.0.3||mobx_codegen: ^2.4.0   |
-|mobx: ^2.2.1           ||modular_test: 2.0.0    |
-|flutter_mobx: ^2.1.1   ||build_runner:          |
-|google_fonts:          ||                       |
-|validatorless:         ||                       |
-|http:                  ||                       |
-|url_launcher: ^6.2.1   ||                       |
-|shared_preferences:    ||                       |	
+|-----------------------|------------------------|
+|cupertino_icons: ^1.0.2| flutter_lints: ^2.0.0  |
+|flutter_modular: ^5.0.3| mobx_codegen: ^2.4.0   |
+|mobx: ^2.2.1           | modular_test: 2.0.0    |
+|flutter_mobx: ^2.1.1   | build_runner:          |
+|google_fonts:          |                        |
+|validatorless:         |                        |
+|http:                  |                        |
+|url_launcher: ^6.2.1   |                        |
+|shared_preferences:    |                        |	
 
 ## 💻 ARQUITETURA
-|                   |	                                                   |	
+|                   |	                                                         |	
 |-------------------|------------------------------------------------------------|
-|MOBX               |	MobX é uma biblioteca de gerenciamento de estado. | 
-|flutter_modular    |	Rotas modularizadas e Injeção de dependência modularizada |
+|MOBX               |	MobX é uma biblioteca de gerenciamento de estado.        | 
+|MODULAR            |	Rotas modularizadas e Injeção de dependência modularizada|
 
 
 ## 🚀 MOCKAPI
