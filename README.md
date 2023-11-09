@@ -73,11 +73,12 @@ Como a tela deve se comportar
 ## 🚀 MOCKAPI
 MockAPI é uma ferramenta simples que permite simular APIs facilmente, gerar dados personalizados e pré-formar operações usando a interface RESTful.
 - Foi criada uma conta no site ( https://mockapi.io/projects ), para buscas os dados de uma lista já criada na Api e listar na tela no primeiro acesso, como demonstração de acesso a uma APIRESTful.
+- Tela do esquema :shipit:
+  ![MockApi](https://github.com/Nestor-Neto/app_target/assets/46816371/64360f75-58d6-4823-9e2d-80024d5463b1)
+  
 
 
 ## ☕ TELAS ☕
-![app001](https://github.com/Nestor-Neto/app_target/assets/46816371/c664cee8-aa03-4424-bdd5-b61bfef7d2a6)
-![app00](https://github.com/Nestor-Neto/app_target/assets/46816371/254967da-ec1c-460f-aa2b-6801c4b87901)
 
 ![app01](https://github.com/Nestor-Neto/app_target/assets/46816371/e33af923-0737-4fca-8dae-0bf135d7d8bc)
 ![app02](https://github.com/Nestor-Neto/app_target/assets/46816371/2b392f34-a257-4bf7-a498-ceaa832ef6cc)
